@@ -10,9 +10,6 @@ your task is to create a model that will label chemical 0 or 1 given its three f
 and built-in docker and use some library to display that in frontend.
 Note : Use only pyspark
 
-Dataset:- https://www.kaggle.com/datasets/uciml/indian-liver-patient-records
-
-
 '''
 
 ## Answer-2 [Advanced Machine Learning]:-
