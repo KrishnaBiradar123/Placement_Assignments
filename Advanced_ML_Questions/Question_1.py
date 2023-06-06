@@ -6,9 +6,6 @@ Question - 1 :-
 An Ad- Agency analyzed a dataset of online ads and used a machine learning
 model to predict whether a user would click on an ad or not.
 
-Dataset:- https://www.kaggle.com/c/avazu-ctr-prediction
-
-
 '''
 
 ## Answer-1 [Advanced Machine Learning]:-
